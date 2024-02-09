@@ -16,8 +16,12 @@
 - **R**: Proficient in statistical analysis, data visualization, and machine learning techniques using R.
 - **Plink**: Experienced in handling genetic data and conducting genome-wide association studies (GWAS) using Plink.
 - **Python**: Skilled in data manipulation, scientific computing, and building machine learning models with Python.
-- **MATLAB**: Proficient in signal processing, image analysis, and modeling neural systems using MATLAB.
+- **MATLAB**: Proficient in signal processing, image analysis, and modeling neural systems using MATLAB. Experienced with EEGlab and ERPlab for EEG data analysis.
 - **SPSS**: Experienced in statistical analysis and data management using SPSS.
+- **Excel**: Proficient in data analysis, visualization, and manipulation using Excel.
+- **NetStation**: Familiar with EEG data acquisition and analysis using NetStation software.
+- **EGI**: Experienced in EEG data acquisition and analysis with EGI systems.
+
 
 ## Projects
 
